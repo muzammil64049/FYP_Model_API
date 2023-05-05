@@ -1,1 +1,1 @@
-gunicorn FLask APi:app
+web: gunicorn FLask APi:app
